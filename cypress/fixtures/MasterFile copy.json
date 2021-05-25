@@ -1,0 +1,26 @@
+[
+    {
+        "configurationType" : "CustomFields",
+        "operationType": "Create",
+        "groupName": "Applicant",
+        "fieldName": "VehicleMiles"
+    },
+    {
+        "configurationType" : "CustomFields",
+        "operationType": "Create",
+        "groupName": "Bureau",
+        "fieldName": "VehicleMiles"
+    },
+    {
+        "configurationType" : "Formulas",
+        "operationType": "Create",
+        "groupName": "Applicant",
+        "fieldName": "VehicleMiles"
+    },
+    {
+        "configurationType" : "PageFormulas",
+        "operationType": "Update",
+        "groupName": "Applicant",
+        "fieldName": "test"
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "group":"Applicant",
+    "name":"test",
+    "active":"TRUE",
+    "mandatory":"TRUE",
+    "sensitive":"TRUE",
+    "coApplicantOnly":"TRUE",
+    "order":"0",
+    "entryType":"Data Entry",
+    "validationType":"Integer",
+    "length":"10",
+    "dropdown":"",
+    "formula":"",
+    "xPath":"",
+    "prepopulate": "TRUE",
+    "prepoulateFromValue":"TRUE",
+    "value":"5000",
+    "prepopulateFromData":"FALSE",
+    "prepopulateGroup":"",
+    "field":""
+  }

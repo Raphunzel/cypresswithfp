@@ -1,0 +1,14 @@
+  [  
+      {
+        "configurationType" : "CustomFields",
+        "operationType": "Create",
+        "groupName": "Applicant",
+        "fieldName": "VehicleMiles"
+    },
+    {
+        "configurationType" : "CustomFields",
+        "operationType": "Create",
+        "groupName": "Applicant",
+        "fieldName": "test"
+    }
+]
